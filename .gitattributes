@@ -1,0 +1,7 @@
+Assets/FBx/3/3d66Model-1610839-files-3.tga filter=lfs diff=lfs merge=lfs -text
+Assets/model/jianzhu/changjing2.fbx filter=lfs diff=lfs merge=lfs -text
+Assets/model/jianzhu/changjing3.fbx filter=lfs diff=lfs merge=lfs -text
+Assets/xuedi/cloud_layers_16k.png filter=lfs diff=lfs merge=lfs -text
+Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+Library/Artifacts/52/52f89e252996e3238456d8093fe88b63 filter=lfs diff=lfs merge=lfs -text
+Library/Artifacts/ab/aba586278ec487161709c1956d9e223e filter=lfs diff=lfs merge=lfs -text
